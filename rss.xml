@@ -1,0 +1,18 @@
+
+<rss version="2.0">
+  <channel>
+    <title>Web de noticies de Adria Henares Torruella</title>
+    <link>http://adriahenaresrss.com/</link>
+    <description>Aquesta es la meva pagina web de noticies.</description>
+    <item>
+       <title>Possible fitxatge del F.C.B.</title>
+       <link>http://adriahenaresrss.com/</link>
+       <description>El Futbol Club Barcelona esta a punt de fitxar al jugador Amrabat.</description>
+    </item>
+    <item>
+       <title>Es cancela el possible fitxatge del F.C.B.</title>
+       <link>http://adriahenaresrss.com/</link>
+       <description>La Florentina a rebutjat l'oferta del F.C.B. per Amrabat.</description>
+    </item>
+  </channel>
+</rss>
